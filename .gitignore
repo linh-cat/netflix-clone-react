@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/github-image
-.history
+.history    
 # testing
 /coverage
 
